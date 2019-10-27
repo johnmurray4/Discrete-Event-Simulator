@@ -1,7 +1,4 @@
-John Murray
-Dr. Kwatny
-3207
-September 16, 2019
+
 Giorgio’s Discrete Event Simulator
 	This program stimulates an operating system’s process scheduler, representing the flow of tasks through the CPU and I/O devices. 
   A major role and challenge faced by the operating system is to make the most use out of its hardware, especially the CPU, as it 
